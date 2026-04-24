@@ -14,3 +14,6 @@ CMakeUserPresets.json
 
 # cmake build directories
 build/
+
+# IDE-related
+.vs/
